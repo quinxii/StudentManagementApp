@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Nguyen Nhat Quynh",
+    "dob": "01/01/2002",
+    "class": "20KTPM1",
+    "gender": "Female"
+  },
+  {
+    "name": "Le Minh Nhat",
+    "dob": "01/01/2002",
+    "class": "20KTPM2",
+    "gender": "Male"
+  },
+  {
+    "name": "Vu Duc Dung",
+    "dob": "01/01/2002",
+    "class": "20KTPM3",
+    "gender": "Male"
+  },
+  {
+    "name": "Ho Minh Thanh Tai",
+    "dob": "01/01/2002",
+    "class": "20KTPM4",
+    "gender": "Male"
+  }
+]
